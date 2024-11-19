@@ -3,7 +3,10 @@ const mongoose = require('mongoose');
 // Function to establish a connection to the MongoDB database
 function connectToDB() {
     // Use mongoose to connect to the database using the connection string from environment variables
-    mongoose.connect(process.env.MONGO_URI) 
+    mongoose.connect(process.env.MONGO_URI,{
+        useNewUrlParser: true,
+        useUnifiedTopology: true,
+    }) 
         .then(() => {
           
             console.log('Connected to database');
