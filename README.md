@@ -109,7 +109,7 @@ Fetches a subscriber by their ID.
     }
     ```
 ## Technologies Used
-- **Frontend:** ejs, Tailwindcss, javascript
+- **Frontend:** ejs, Tailwindcss, javascript, Flowbite
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 
