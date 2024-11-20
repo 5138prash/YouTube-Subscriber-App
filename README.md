@@ -67,7 +67,7 @@ The backend, built with Express.js, provides the following API routes:
 | **GET /api/subscribers**       | Fetches all subscribers.                        |
 | **GET /api/subscribers/names** | Fetches names and subscribed channels.          |
 | **GET /api/subscribers/:id**   | Fetches details of a specific subscriber by ID. |
-|--------------------------------|-------------------------------------------------|
+|                                |                                                 |
 ## 📡 API Endpoints
 
 ### **GET /api/subscribers**
@@ -102,10 +102,10 @@ Fetches a subscriber by their ID.
 - **Sample Response:**
     ```json
     {
-        "_id": "60c72b1f4f1a2c1a88e4d5b6",
-        "name": "John Doe",
-        "subscribedChannel": "Tech Channel",
-        "subscribedDate": "2021-06-13T00:00:00.000Z"
+        "_id": "673c4417e44edec6b4766fab",
+        "name": "Jeread Krus",
+        "subscribedChannel": "CNET",
+        "subscribedDate": "2024-11-20T06:50:04.408Z"
     }
     ```
 ## Technologies Used
