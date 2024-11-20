@@ -2,7 +2,7 @@
 
 Welcome to the **Youtube Subscribers App**! This application provides a simple interface to interact with a MongoDB database containing information about YouTube subscribers.
 
- 📑## Table of Contents
+ ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
