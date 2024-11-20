@@ -62,7 +62,7 @@ The frontend is a simple ejs page for testing API interactions. Features include
 ### Backend
 The backend, built with Express.js, provides the following API routes:
 
-|-Endpoint-----------------------| Description-------------------------------------|
+| Endpoint                       | Description                                     |
 |--------------------------------|-------------------------------------------------|
 | **GET /api/subscribers**       | Fetches all subscribers.                        |
 | **GET /api/subscribers/names** | Fetches names and subscribed channels.          |
