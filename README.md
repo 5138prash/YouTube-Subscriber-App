@@ -2,7 +2,7 @@
 
 Welcome to the **Youtube Subscribers App**! This application provides a simple interface to interact with a MongoDB database containing information about YouTube subscribers.
 
-## 📑 Table of Contents
+## 📑## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
@@ -12,15 +12,15 @@ Welcome to the **Youtube Subscribers App**! This application provides a simple i
 - [License](#license)
 - [Contributing](#contributing)
 
-## 📖 Introduction
+##  Introduction
 The **YouTube Subscribers App** is a full-stack web application built using Express.js and MongoDB. It demonstrates key principles of RESTful APIs and database interactions, making it ideal for developers seeking a simple yet powerful way to manage subscriber data.
 
-## ✨ Features
+##  Features
 - Fetch all subscribers from the database.
 - Retrieve names and subscribed channels of all subscribers.
 - Get detailed information about a subscriber by their unique ID.
 
-## 🛠️ Installation
+##  Installation
 
 ### Prerequisites
 - Node.js and npm installed.
@@ -51,7 +51,7 @@ The **YouTube Subscribers App** is a full-stack web application built using Expr
 5. **Access the application:**
    Open your browser and go to `http://localhost:3000` to view the app.
 
-## 🚀 Usage
+##  Usage
 
 ### Frontend
 The frontend is a simple ejs page for testing API interactions. Features include:
